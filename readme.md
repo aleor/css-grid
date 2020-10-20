@@ -8,6 +8,10 @@ Probably the simplest css-grid ever possible.
 
 A bit more complex grid, attempt to replicate given layout in pixel-perfect way.
 
-### grid-areas
+### grid_areas
 
 Defining the layout with grid-areas and change the layout for smaller (mobile) devices.
+
+### nested_grids
+
+Few nested grids inside the parent grid. Some offsets added.
