@@ -1,7 +1,8 @@
 .wrapper {
   width: 633px;
   height: 458px;
-  background: url(complex_layout.png) no-repeat;
+  /* uncomment to see the required layout underneath
+   background: url(complex_layout.png) no-repeat;*/
   display: grid;
   grid-gap: 10px 10px;
   background-color: lightgrey;
