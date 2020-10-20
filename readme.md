@@ -1,4 +1,4 @@
-## CSS Grid
+## CSS Grid samples
 
 ### simple_grid
 
